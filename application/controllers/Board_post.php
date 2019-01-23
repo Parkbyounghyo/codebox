@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-/**
+/**살피기
  * Board_post class
  *
  * Copyright (c) CIBoard <www.ciboard.co.kr>
